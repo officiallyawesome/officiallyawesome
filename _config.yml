@@ -11,6 +11,7 @@ url: "http://officiallyawesome.woozle.uk" # the base hostname & protocol for you
 github_username:  officiallyawesome
 
 # Build settings
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
