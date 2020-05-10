@@ -1,10 +1,7 @@
 ---
-title: Officially Awesome
-feature_text: |
-  Awesome resources for awesome officials
-feature_image: "https://i.picsum.photos/id/1073/5472/3648.jpg"
-excerpt:
-layout: page
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+author_profile: false
 ---
-
-Awesome resources for awesome officials.
