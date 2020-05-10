@@ -25,7 +25,8 @@ minimal_mistakes_skin: dark
 search: true
 
 # Added Options
-#logo: "/assets/images/logo88x88.png"
+repository: elliot-forty-two/officiallyawesome
+logo: "/assets/images/logo-88x88.png"
 #breadcrumbs: true
 
 # Build settings

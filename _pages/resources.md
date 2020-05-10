@@ -1,6 +1,9 @@
 ---
 title: "Resources"
 permalink: /resources/
+header:
+  overlay_image: /assets/images/P4150128.jpg
+  overlay_filter: 0.5
 #classes: wide
 ---
 ## Magnet Board
