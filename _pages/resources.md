@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 permalink: /resources/
-classes: wide
+#classes: wide
 ---
 ## Magnet Board
 The fantastic app created by Vienna Roller Derby, [URDUMB](https://urdumb.org)
