@@ -21,13 +21,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: officiallyawesome
 github_username: officiallyawesome
-minimal_mistakes_skin: dark
-search: true
+minimal_mistakes_skin: air #dark
+search: false
 
 # Added Options
 repository: elliot-forty-two/officiallyawesome
 logo: "/assets/images/logo-88x88.png"
-#breadcrumbs: true
+breadcrumbs: false
 
 # Build settings
 markdown: kramdown
