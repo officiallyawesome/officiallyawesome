@@ -23,9 +23,9 @@ baseurl: ""
 locale: "en-GB"
 repository: elliot-forty-two/officiallyawesome
 
-twitter_username: officiallyawesome
+# twitter_username: officiallyawesome
 github_username: officiallyawesome
-#minimal_mistakes_skin: air
+# minimal_mistakes_skin: air
 minimal_mistakes_skin: dark
 logo: "/assets/images/logo-88x88.png"
 search: false
@@ -40,10 +40,10 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
+# compress_html:
+#   clippings: all
+#   comments: ["<!-- ", " -->"]
+#   endings: all
 
 include:
   - _pages
@@ -120,10 +120,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
