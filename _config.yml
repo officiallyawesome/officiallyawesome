@@ -25,7 +25,8 @@ repository: elliot-forty-two/officiallyawesome
 
 twitter_username: officiallyawesome
 github_username: officiallyawesome
-minimal_mistakes_skin: air #dark
+#minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 logo: "/assets/images/logo-88x88.png"
 search: false
 breadcrumbs: false
