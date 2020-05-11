@@ -1,10 +1,10 @@
 ---
 title: "Resources"
 permalink: /resources/
+excerpt: "&nbsp;"
 header:
   overlay_image: /assets/images/P4150128.jpg
   overlay_filter: 0.5
-#classes: wide
 ---
 ## Magnet Board
 The fantastic app created by Vienna Roller Derby, [URDUMB](https://urdumb.org)

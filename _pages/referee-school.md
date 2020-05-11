@@ -1,10 +1,10 @@
 ---
 title: Referee School
-layout: collection
 permalink: /referee-school/
 collection: referee-school
+layout: collection
 entries_layout: grid
-#classes: wide
+excerpt: "&nbsp;"
 header:
   overlay_image: /assets/images/P4160801.jpg
   overlay_filter: 0.5
