@@ -6,6 +6,6 @@ layout: home
 author_profile: false
 excerpt: Resources for awesome roller derby officials
 header:
-  overlay_image: /assets/images/P4150278.jpg
+  overlay_image: https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_scale,w_1280/v1589199084/P4150278_jscqxa.jpg
   overlay_filter: 0.5
 ---

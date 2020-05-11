@@ -3,7 +3,7 @@ title: "Resources"
 permalink: /resources/
 excerpt: "&nbsp;"
 header:
-  overlay_image: /assets/images/P4150128.jpg
+  overlay_image: https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_scale,w_1280/v1589199062/P4150128_oxeaat.jpg
   overlay_filter: 0.5
 ---
 ## Magnet Board
