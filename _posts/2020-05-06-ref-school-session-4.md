@@ -7,7 +7,7 @@ tags:
 ## Session 4 is this Sunday 10 May!
 Thank you to all those who joined us for Session 3 last week - it was a fun session all about the engagement zone and pack definition (who would have thought you'd receive an email in 2020 that said "fun" and "pack definition" in the same sentence).  
 
-A reminder that we created a Facebook group: [](www.facebook.com/groups/LRDRefSchool). Please join if you'd like to.
+A reminder that we created a Facebook group: [www.facebook.com/groups/LRDRefSchool](https://www.facebook.com/groups/LRDRefSchool). Please join if you'd like to.
 
 ## Guest Referee for Session 4!
 ![Killer Bite](https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_scale,w_300/v1589233364/killer-bite_dxqfvg.jpg){: .align-right}
