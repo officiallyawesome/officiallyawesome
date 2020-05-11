@@ -15,18 +15,19 @@
 # in the templates via {{ site.myvariable }}.
 title: Officially Awesome
 email: hello@officiallyawesome.online
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # this means to ignore newlines until "url:"
+  Resources for awesome roller derby officials.
+
+url: "https://officiallyawesome.woozle.uk"
+baseurl: ""
+locale: "en-GB"
+repository: elliot-forty-two/officiallyawesome
+
 twitter_username: officiallyawesome
 github_username: officiallyawesome
 minimal_mistakes_skin: air #dark
-search: false
-
-# Added Options
-repository: elliot-forty-two/officiallyawesome
 logo: "/assets/images/logo-88x88.png"
+search: false
 breadcrumbs: false
 
 # Build settings
@@ -68,32 +69,26 @@ remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 author:
   name   : "Officially Awesome"
   # avatar : "/assets/images/logo.png"
-  bio    : "Resources for awesome officials."
+  bio    : "Resources for awesome roller derby officials."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+      url: "https://officiallyawesome.online"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+      url: "https://github.com/officiallyawesome/officiallyawesome"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+      url: "https://github.com/officiallyawesome/officiallyawesome"
+    - label: "Categories"
+      icon: "fa fa-fw fa-cat"
+      url: /categories/
+    - label: "Tags"
+      icon: "fa fa-fw fa-tags"
+      url: /tags/
 
 collections:
   referee-school:
@@ -101,7 +96,7 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
-  # _refschool
+  # _referee-school
   - scope:
       path: ""
       type: referee-school

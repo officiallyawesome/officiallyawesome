@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: false
-excerpt: Resources for awesome officials
+excerpt: Resources for awesome roller derby officials
 header:
   overlay_image: /assets/images/P4150278.jpg
   overlay_filter: 0.5
