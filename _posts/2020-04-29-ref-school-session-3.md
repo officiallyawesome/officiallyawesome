@@ -7,11 +7,6 @@ tags:
 ## Session 3 is this Sunday 3 May!
 Thank you to all those who joined us for Session 2 last week - it was a fast-paced and full session! It was wonderful to see so many of you back again.
 
-### Reminders:
-- Folks asked, so we created it. We have a Facebook group: https://www.facebook.com/groups/LRDRefSchool.  Feel free to join it if you like using Facebook groups.
-  - Although, please note: Due to the Facebook group being set to "private" but publicly advertised the link for the session has become more public. Therefore, please be aware the first 1000 people (lol) who enter the Zoom chat will gain entry to the live session.
-- LRD Officials have moved our emails to mailchimp. This makes it easier to email you weekly and it's easier for you to unsubscribe, if you so wish! After ref school, if you didn't say we can add you to the London Roller Derby email account or our fundamentals course - we will be deleting your information.
-
 ## What do you think about the length of the session?
 There are so many people and so many rules and so little time! We want to find a way to help expand things that suits most people. We have started a poll on Facebook - please do fill it in.
 
