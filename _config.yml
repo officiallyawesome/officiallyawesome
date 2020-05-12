@@ -60,6 +60,9 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - submodules
+  - _resources/magnet-board/theming.md
+  - _resources/magnet-board/roadmap.txt
+  - _resources/magnet-board/privacy_policy.txt
 
 # Plugins (previously gems:)
 plugins:

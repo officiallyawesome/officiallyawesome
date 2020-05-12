@@ -17,5 +17,5 @@ The wonderful Holtz, LRD official and chat moderator extraordinaire, has turned 
 
 ## External Links
 * [The Rules of Roller Derby](http://rules.wftda.com){:target="_blank"}
-* [Penalty quick reference](https://static.wftda.com/officiating/wftda-penalty-quick-reference-guide.pdf){:target="_blank"}
-* [WFTDA officiating cues, codes and signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf){:target="_blank"}
+* [Penalty quick reference](penalty-quick-reference)
+* [WFTDA officiating cues, codes and signals](officiating-cues-codes-signals)

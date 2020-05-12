@@ -1,0 +1,5 @@
+{% capture pdf_url %}{{ include.pdf_url }}{% endcapture %}
+
+Download the [PDF](){:target="_blank"}.
+
+<object data="{{pdf_url}}" width="1000" height="1000" type='application/pdf'></object>
