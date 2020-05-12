@@ -1,0 +1,3 @@
+[submodule "submodules/TrackerTrainer"]
+	path = submodules/TrackerTrainer
+	url = https://github.com/bexedmondson/TrackerTrainer

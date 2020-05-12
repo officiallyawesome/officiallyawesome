@@ -5,8 +5,6 @@ permalink: /tracker-trainer/
 
 {% include unity unity_dir="/assets/unity/trackertrainer" %}
 
-# Tracker Trainer
-
 A focus and memory exercise for roller derby skating officials.
 
 Familiarise yourself with the instructions and then complete the information tracking tasks while simultaneously undertaking physical activity.
