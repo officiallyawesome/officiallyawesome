@@ -1,6 +1,6 @@
 ---
 title: "Tracker Trainer"
-permalink: /tracker-trainer/
+#permalink: /tracker-trainer/
 ---
 
 {% include unity unity_dir="/assets/unity/trackertrainer" %}

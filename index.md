@@ -20,13 +20,13 @@ feature_row:
     alt: "Magnet Board"
     title: "Magnet Board"
     excerpt: "Create interactive scenarios with the Magnet Board"
-    url: "/magnet-board"
+    url: "/resources/magnet-board/about"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_lfill,g_auto,w_600,h_400/v1589199094/Roller%20Derby%20Photos/P4160438_epqc5t.jpg
     title: "Tracker Trainer"
     excerpt: "Work on your tracking and focus skills with the Tracker Trainer"
-    url: "/tracker-trainer"
+    url: "/resources/tracker-trainer"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

@@ -101,12 +101,27 @@ collections:
   referee-school:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _referee-school
   - scope:
       path: ""
       type: referee-school
+    values:
+      layout: single
+      excerpt_separator: "<!-- more -->"
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _resources
+  - scope:
+      path: ""
+      type: resources
     values:
       layout: single
       excerpt_separator: "<!-- more -->"
