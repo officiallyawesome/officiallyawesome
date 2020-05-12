@@ -1,0 +1,12 @@
+{% capture unity_dir %}{{ include.unity_dir }}{% endcapture %}
+
+<script src="{{unity_dir}}/TemplateData/UnityProgress.js"></script>
+<script src="{{unity_dir}}/Build/UnityLoader.js"></script>
+<script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "{{unity_dir}}/Build/LiveBuild.json",{onProgress: UnityProgress});
+</script>
+<p>
+  <div class="webgl-content">
+    <div id="gameContainer" style="max-width: 960px; height: 350px; margin: 0 auto"></div>
+  </div>
+</p>
