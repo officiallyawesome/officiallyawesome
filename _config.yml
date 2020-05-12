@@ -78,7 +78,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 
 author:
   name   : "Officially Awesome"
-  # avatar : "/assets/images/logo.png"
+  avatar : "/assets/images/logo-88x88.png"
   bio    : "Resources for awesome roller derby officials."
   links:
     - label: "Website"
@@ -92,7 +92,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/officiallyawesome/officiallyawesome"
+      url: "https://github.com/elliot-forty-two/officiallyawesome"
     - label: "Categories"
       icon: "fa fa-fw fa-cat"
       url: /categories/
