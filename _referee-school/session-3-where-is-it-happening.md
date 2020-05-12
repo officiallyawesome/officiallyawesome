@@ -3,10 +3,10 @@ title:  "Session 3: Where is it Happening?"
 date:   2020-05-03 15:00:00 +0100
 categories:
 - Referee School
-youtubeId: VqXf9j-xHkQ
 ---
 <!-- more -->
-{% include video id=page.youtubeId provider="youtube" %}
+
+{% include video id="VqXf9j-xHkQ" provider="youtube" %}
 
 ## Resources used this week
 - [The Rules of Roller Derby](https://rules.wftda.com)

@@ -3,10 +3,11 @@ title:  "Session 2: How is it Happening?"
 date:   2020-04-26 15:00:00 +0100
 categories:
 - Referee School
-youtubeId: en-JqS9ad9w
 ---
 <!-- more -->
-{% include video id=page.youtubeId provider="youtube" %}
+
+{% include video id="en-JqS9ad9w" provider="youtube" %}
+
 ## Resources used this week
 - [The Rules of Roller Derby](https://rules.wftda.com)
 - [MentiMetre](https://www.mentimeter.com)

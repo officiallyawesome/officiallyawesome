@@ -10,7 +10,7 @@ header:
 The fantastic app created by Vienna Roller Derby, [URDUMB](https://urdumb.org)
 
 ## Tracker Trainer
-The wonderful Holtz, LRD official and chat moderator extraordinaire, has turned my wee youtube memory video into an actual game! You can find it here: [Trainer Tracker](https://rollerderbytrackertrainer.co.uk/)
+The wonderful Holtz, LRD official and chat moderator extraordinaire, has turned my wee youtube memory video into an actual game! You can find it here: [Trainer Tracker](/tracker-trainer)
 
 ## External Links
 * [The Rules of Roller Derby](http://rules.wftda.com)
