@@ -2,5 +2,5 @@
 	path = submodules/TrackerTrainer
 	url = https://github.com/bexedmondson/TrackerTrainer
 [submodule "submodules/urdumb"]
-	path = submodules/urdumb
+	path = magnet-board
 	url = https://github.com/elliot-forty-two/urdumb
