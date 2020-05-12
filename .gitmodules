@@ -1,3 +1,6 @@
 [submodule "submodules/TrackerTrainer"]
 	path = submodules/TrackerTrainer
 	url = https://github.com/bexedmondson/TrackerTrainer
+[submodule "submodules/urdumb"]
+	path = submodules/urdumb
+	url = https://github.com/elliot-forty-two/urdumb
