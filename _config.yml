@@ -29,7 +29,7 @@ github_username: officiallyawesome
 minimal_mistakes_skin: dark
 logo: "/assets/images/logo-88x88.png"
 search: false
-breadcrumbs: false
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -121,6 +121,7 @@ defaults:
       comments: false
       share: false
       related: false
+      paginate: true
   # _resources
   - scope:
       path: ""
@@ -144,6 +145,7 @@ defaults:
       comments: false
       share: false
       related: false
+      paginate: true
   # _pages
   - scope:
       path: "_pages"
