@@ -10,7 +10,7 @@ categories:
 
 ## Resources used this week
 - [The Rules of Roller Derby](https://rules.wftda.com)
-- [Magnetic Whiteboard](/magnetic-whiteboard/) (based off the WONDERFUL resource Vienna Roller Derby. This has been created by Vienna Roller Derby and they've recently updated it to include being able to show a skater who is down and add more accessibility features. [urdumb.org](https://urdumb.org/))
+- [Magnet Board]({% link _resources/magnet-board/index.html %}) (based off the WONDERFUL resource Vienna Roller Derby. This has been created by Vienna Roller Derby and they've recently updated it to include being able to show a skater who is down and add more accessibility features. [urdumb.org](https://urdumb.org/))
 - [WFTDA officiating cues, codes and signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)
 - [WFTDA penalty quick reference guide](https://static.wftda.com/officiating/wftda-penalty-quick-reference-guide.pdf)
 - Exercise for Session 3 (helping Pack Definition and Engagement Zone work): Choose two objects (whether when you're out and about on a walk or in your house) that you think are 10ft from each other or 20 ft from each other. Then take a tape measure and see how accurate you are! OR choose one object and decide where you think 10ft/20ft is.

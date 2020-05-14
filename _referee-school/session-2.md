@@ -11,7 +11,7 @@ categories:
 ## Resources used this week
 - [The Rules of Roller Derby](https://rules.wftda.com)
 - [MentiMetre](https://www.mentimeter.com)
-- [Magnetic Whiteboard](/magnetic-whiteboard/) (based off the WONDERFUL resource Vienna Roller Derby. They have now updated the original site and so you can find some great additions at [urdumb.org](https://urdumb.org/))
+- [Magnet Board]({% link _resources/magnet-board/index.html %}) (based off the WONDERFUL resource Vienna Roller Derby. They have now updated the original site and so you can find some great additions at [urdumb.org](https://urdumb.org/))
 - [WFTDA officiating cues, codes and signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)
 - [WFTDA penalty quick reference guide](https://static.wftda.com/officiating/wftda-penalty-quick-reference-guide.pdf)
 - Memory Exercise: [youtu.be/ojZmZPaISok](https://youtu.be/ojZmZPaISok) (instructions in the YouTube session 2 video)

@@ -19,6 +19,6 @@ C. Extend the session to 90 minutes.
 D. Say few things. keep it 60 minutes, go into less detail.
 
 ## Recording: Session 2
-[Here is a link to Session 2.](/referee-school/session-2-how-is-it-happening)
+[Here is a link to Session 2.]({% link _referee-school/session-2.md %})
 
 The video will go up on YouTube within 24 hours of the session. We are then asking members of the community to add accurate subtitles, which will take a few days. We can’t guarantee YouTube automated ones will be good. For folks who weren’t in the session there was a very active chat thread. If you've got any questions please let us know - either on Facebook, YouTube comments or email us.

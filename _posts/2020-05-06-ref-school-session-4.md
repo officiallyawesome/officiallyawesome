@@ -27,6 +27,6 @@ You can obviously still ask questions throughout the session but we hope this wi
 
 ## Recording: Session 3
 
-[Here is a link to Session 3](/referee-school/session-3-where-is-it-happening)
+[Here is a link to Session 3]({% link _referee-school/session-3.md %})
 
 The video will go up on YouTube within 24 hours of the session. We are then asking members of the community to add accurate subtitles, which will take a few days. We can’t guarantee YouTube automated ones will be good. For folks who weren’t in the session there was a very active chat thread. If you've got any questions please let us know - either on Facebook, YouTube comments or email us.

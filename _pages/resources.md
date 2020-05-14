@@ -10,7 +10,7 @@ header:
 ---
 ## Roller Derby Magnet Board
 The fantastic app created by Wonder Zebra of Vienna Roller Derby.
-[Launch the app](/resources/magnet-board){:target="_blank"}
+[Launch the app](% link _resources/magnet-board/index.html %}){:target="_blank"}
 
 ## Tracker Trainer
 The wonderful Holtz, LRD official and chat moderator extraordinaire, has turned my wee youtube memory video into an actual game! You can find it here: [Trainer Tracker](/resources/tracker-trainer)
