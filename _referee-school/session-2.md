@@ -19,7 +19,7 @@ categories:
 
 [The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [MentiMeter]: <https://www.mentimeter.com>
-[Magnet Board]: {% link _resources/magnet-board/ %}
+[Magnet Board]: {% link _resources/magnet-board/index.html %}
 [urdumb.org]: <https://urdumb.org/>
 [WFTDA officiating cues, codes and signals]: {% link _resources/officiating-cues-codes-signals.md %}
 [WFTDA penalty quick reference guide]: {% link _resources/penalty-quick-reference.md %}

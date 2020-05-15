@@ -16,7 +16,7 @@ categories:
 -   Additional resource for Session 2 Exercise: The wonderful Holtz has updated the resource to help with memory and speed.  You can find it here: [Tracker Trainer][] (do let us know if you have any feedback as Holtz is very happy to update, fix and adapt it!)
 
 [The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
-[Magnet Board]: {% link _resources/magnet-board/ %}
+[Magnet Board]: {% link _resources/magnet-board/index.html %}
 [urdumb.org]: <https://urdumb.org/>
 [WFTDA officiating cues, codes and signals]: {% link _resources/officiating-cues-codes-signals.md %}
 [WFTDA penalty quick reference guide]: {% link _resources/penalty-quick-reference.md %}
