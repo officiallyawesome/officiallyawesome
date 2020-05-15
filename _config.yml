@@ -76,18 +76,6 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 
-author:
-  name   : "Officially Awesome"
-  avatar : "/assets/images/logo-88x88.png"
-  bio    : "Resources for awesome roller derby officials."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://officiallyawesome.online"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/officiallyawesome/officiallyawesome"
-
 footer:
   links:
     - label: "GitHub"
