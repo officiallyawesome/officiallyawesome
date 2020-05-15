@@ -28,7 +28,7 @@
         <li class="current">{{ page.title }}</li>
       {% else %}
         {% assign i = i | plus: 1 %}
-        {% assign crumb_path = crumb | downcase | replace: '%20', '-' | append: '/' | prepend: crumb_path | relative_url %}
+        {% assign crumb_path = crumb | downcase | replace: '%20', '-' | append: '/' | prepend: path_type | prepend: crumb_path | relative_url %}
         {% assign crumb_parts = crumb | replace: '-', ' ' | replace: '%20', ' ' | split: " " %}
         {% assign crumb_title = '' %}
         {% for part in crumb_parts %}
