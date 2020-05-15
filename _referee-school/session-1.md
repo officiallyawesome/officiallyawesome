@@ -9,4 +9,6 @@ categories:
 {% include video id="O9PXVbbmQMg" provider="youtube" %}
 
 ## Resources used this week
-- [The Rules of Roller Derby](https://rules.wftda.com)
+-   [The Rules of Roller Derby][]{:target="_blank"}
+
+[The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
