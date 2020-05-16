@@ -1,6 +1,8 @@
 ---
 title: "Keeping Up With Reaper"
 tagline: "A referee drill to build footwork and speed"
+excerpt: "A referee drill dreamt up by Xavier Bacon and Killer Bite to help improve
+acceleration & footwork and challenge concentration."
 layout: single
 ---
 
