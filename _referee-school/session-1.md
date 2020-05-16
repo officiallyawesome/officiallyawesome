@@ -1,8 +1,6 @@
 ---
 title:  "Session 1: What is Happening?"
 date:   2020-04-19 15:00:00 +0100
-categories:
-- Referee School
 ---
 <!-- more -->
 

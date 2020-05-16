@@ -1,8 +1,6 @@
 ---
 title:  "Session 3: Where is it Happening?"
 date:   2020-05-03 15:00:00 +0100
-categories:
-- Referee School
 ---
 <!-- more -->
 
