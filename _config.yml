@@ -81,12 +81,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elliot-forty-two/officiallyawesome"
-    - label: "Categories"
-      icon: "fa fa-fw fa-cat"
-      url: /categories/
-    - label: "Tags"
-      icon: "fa fa-fw fa-tags"
-      url: /tags/
+    # - label: "Categories"
+    #   icon: "fa fa-fw fa-cat"
+    #   url: /categories/
+    # - label: "Tags"
+    #   icon: "fa fa-fw fa-tags"
+    #   url: /tags/
 
 collections:
   referee-school:
