@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_1600/f_auto,q_auto,c_lfill,g_auto,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     title: "Tracker Trainer"
-    excerpt: "Work on your tracking and focus skills with the Tracker Trainer"
+    excerpt: "A focus and memory exercise for roller derby skating officials"
     url: "/resources/tracker-trainer"
     btn_label: "Read More"
     btn_class: "btn--inverse"
