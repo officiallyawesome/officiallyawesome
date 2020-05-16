@@ -264,6 +264,7 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
     verbal_expressions (0.1.5)
+    wdm (0.1.1)
     zeitwerk (2.3.0)
 
 PLATFORMS
@@ -271,6 +272,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  activesupport (>= 4.1.11)
   github-pages
   jekyll-algolia
   jekyll-feed
@@ -281,6 +283,7 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   tzinfo-data
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.1.4
