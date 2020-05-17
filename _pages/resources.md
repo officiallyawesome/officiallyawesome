@@ -15,11 +15,11 @@ feature_magnet:
     buttons:
       - url: "/resources/magnet-board/index.html"
         btn_label: "Launch"
-        btn_class: "btn--primary"
+        btn_class: "btn--inverse"
         btn_target: "_blank"
       - url: "/resources/magnet-board/about"
         btn_label: "About"
-        btn_class: "btn--primary"
+        btn_class: "btn--inverse"
 feature_tracker:
   - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     alt: "Tracker Trainer"
@@ -27,7 +27,7 @@ feature_tracker:
     excerpt: "A focus and memory exercise for roller derby skating officials."
     url: "/resources/tracker-trainer"
     btn_label: "More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 feature_reaper:
   - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_800/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/keeping-up-with-reaper-1_w6buf8.png
     alt: "Keeping Up With Reaper"
@@ -35,7 +35,7 @@ feature_reaper:
     excerpt: "A referee drill to help improve acceleration & footwork and challenge concentration."
     url: "/resources/keeping-up-with-reaper"
     btn_label: "More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="feature_magnet" type="left" %}

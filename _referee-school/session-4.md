@@ -2,6 +2,8 @@
 title:  "Session 4: Position, Cutting and Jammer Referee "
 date:   2020-05-03 15:00:00 +0100
 excerpt: "We are very excited to announce that for this week's session we have the absolutely amazing Killer Bite joining us."
+header:
+  teaser: https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/portraits/killer-bite_dxqfvg.jpg
 ---
 
 {% include video id="RsGvWNDTwb0" provider="youtube" %}

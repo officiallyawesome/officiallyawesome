@@ -1,6 +1,8 @@
 ---
 title:  "Session 2: How is it Happening?"
 date:   2020-04-26 15:00:00 +0100
+header:
+  teaser: https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_lfill,g_auto,r_5,w_800,h_450/officially-awesome/photos/P4150150_rcdkva.jpg
 ---
 <!-- more -->
 
@@ -9,7 +11,7 @@ date:   2020-04-26 15:00:00 +0100
 ## Resources used this week
 -   [The Rules of Roller Derby][]{:target="_blank"}
 -   [MentiMeter][]{:target="_blank"}
--   [Magnet Board][] (based off the WONDERFUL resource Vienna Roller Derby. They have now updated the original site and so you can find some great additions at [urdumb.org][]{:target="_blank"})
+-   [Magnet Board][]{:target="_blank"} (based off the WONDERFUL resource Vienna Roller Derby. They have now updated the original site and so you can find some great additions at [urdumb.org][]{:target="_blank"})
 -   [WFTDA officiating cues, codes and signals][]
 -   [WFTDA penalty quick reference guide][]
 -   Memory Exercise: [youtu.be/ojZmZPaISok][]{:target="_blank"} (instructions in the YouTube session 2 video)
