@@ -10,5 +10,9 @@ header:
 
 ## Resources used this week
 -   [The Rules of Roller Derby][]{:target="_blank"}
+-   [Mentimeter][]{:target="_blank"}
+-   [Magnet Board][]{:target="_blank"}
 
 [The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
+[Mentimeter]: <https://www.mentimeter.com>
+[Magnet Board]: {% link _resources/magnet-board/index.html %}

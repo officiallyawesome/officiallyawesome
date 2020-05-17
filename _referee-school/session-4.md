@@ -15,16 +15,13 @@ We are very excited to announce that for this week's session we have the absolut
 Together with Tem - we are very excited to have a session all about Jammer Reffing, a penalty we haven't spoken about much yet "cutting the track" and position (if you've ever wondered what relative or established position means - it will all become clear).
 
 ## Resources used this week
--   [The Rules of Roller Derby][]{:target="_blank"}
--   [WFTDA officiating cues, codes and signals][]
--   [WFTDA penalty quick reference guide][]
--   Exercise for Session 4 : Explained by Killer Bite during the session you can find more information about the drill to help improve acceleration & footwork and challenge concentration here: [Keeping Up With Reaper][]
--   Additional resource for Session 2 Exercise: The wonderful Holtz has updated the resource to help with memory and speed.  You can find it here: [Tracker Trainer][] (do let us know if you have any feedback as Holtz is very happy to update, fix and adapt it!)
+- [The Rules of Roller Derby][]{:target="_blank"}
+- [WFTDA officiating cues, codes and signals][]
+- [WFTDA penalty quick reference guide][]
+- Exercise for Session 4:
+  - Explained by Killer Bite during the session you can find more information about the drill to help improve acceleration & footwork and challenge concentration here: [Keeping Up With Reaper][]
 
 [The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
-[Magnet Board]: {% link _resources/magnet-board/index.html %}
-[urdumb.org]: <https://urdumb.org/>
 [WFTDA officiating cues, codes and signals]: {% link _resources/officiating-cues-codes-signals.md %}
 [WFTDA penalty quick reference guide]: {% link _resources/penalty-quick-reference.md %}
 [Keeping Up With Reaper]: {% link _resources/keeping-up-with-reaper.md %}
-[Tracker Trainer]: {% link _resources/tracker-trainer.md %}

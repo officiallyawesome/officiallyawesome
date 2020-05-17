@@ -26,7 +26,6 @@ feature_tracker:
     title: "Tracker Trainer"
     excerpt: "A focus and memory exercise for roller derby skating officials."
     url: "/resources/tracker-trainer"
-    btn_label: "More"
     btn_class: "btn--inverse"
 feature_reaper:
   - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_800/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/keeping-up-with-reaper-1_w6buf8.png
@@ -34,7 +33,6 @@ feature_reaper:
     title: "Keeping Up With Reaper"
     excerpt: "A referee drill to help improve acceleration & footwork and challenge concentration."
     url: "/resources/keeping-up-with-reaper"
-    btn_label: "More"
     btn_class: "btn--inverse"
 ---
 
