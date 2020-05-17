@@ -12,9 +12,14 @@ feature_magnet:
     alt: "Roller Derby Magnet Board"
     title: "Roller Derby Magnet Board"
     excerpt: "Create interactive scenarios with the Magnet Board, created by Wonder Zebra of Vienna Roller Derby."
-    url: "/resources/magnet-board/index.html"
-    btn_label: "Launch"
-    btn_class: "btn--primary"
+    buttons:
+      - url: "/resources/magnet-board/index.html"
+        btn_label: "Launch"
+        btn_class: "btn--primary"
+        btn_target: "_blank"
+      - url: "/resources/magnet-board/about"
+        btn_label: "About"
+        btn_class: "btn--primary"
 feature_tracker:
   - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     alt: "Tracker Trainer"
