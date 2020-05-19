@@ -5,10 +5,10 @@ collection: resources
 layout: archive
 # excerpt: "&nbsp;"
 header:
-  overlay_image: https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_scale,w_1280/officially-awesome/photos/P4150128_oxeaat.jpg
+  overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_1280/officially-awesome/photos/P4150128_oxeaat.jpg
   overlay_filter: 0.5
 feature_magnet:
-  - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/magnet-board_wtfcoo.png
+  - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/magnet-board_wtfcoo.png
     alt: "Roller Derby Magnet Board"
     title: "Roller Derby Magnet Board"
     excerpt: "Create interactive scenarios with the Magnet Board, created by Wonder Zebra of Vienna Roller Derby."
@@ -21,14 +21,14 @@ feature_magnet:
         btn_label: "About"
         btn_class: "btn--inverse"
 feature_tracker:
-  - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
+  - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     alt: "Tracker Trainer"
     title: "Tracker Trainer"
     excerpt: "A focus and memory exercise for roller derby skating officials."
     url: "/resources/tracker-trainer"
     btn_class: "btn--inverse"
 feature_reaper:
-  - image_path: https://res.cloudinary.com/elliot-forty-two/image/upload/c_scale,w_800/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/keeping-up-with-reaper-1_w6buf8.png
+  - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_800/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/keeping-up-with-reaper-1_w6buf8.png
     alt: "Keeping Up With Reaper"
     title: "Keeping Up With Reaper"
     excerpt: "A referee drill to help improve acceleration & footwork and challenge concentration."

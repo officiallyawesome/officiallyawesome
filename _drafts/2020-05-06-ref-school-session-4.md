@@ -8,7 +8,7 @@ tags:
 Thank you to all those who joined us for Session 3 last week - it was a fun session all about the engagement zone and pack definition (who would have thought you'd receive an email in 2020 that said "fun" and "pack definition" in the same sentence).
 
 ## Guest Referee for Session 4!
-![Killer Bite](https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_scale,w_300/officially-awesome/portraits/killer-bite_dxqfvg.jpg){: .align-right}
+![Killer Bite](https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_300/officially-awesome/portraits/killer-bite_dxqfvg.jpg){: .align-right}
 
 We are very excited to announce that for this week's session we have the absolutely amazing Killer Bite joining us. Kb  is a referee affiliated with London Rockin' Rollers (another wonderful London based roller derby league), and  was a Jammer Referee (with Theminist Killjoy) at WFTDA Champs 2019 and is an all around asset to European Roller Derby.
 

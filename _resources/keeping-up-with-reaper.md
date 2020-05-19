@@ -32,7 +32,7 @@ moving left, right and stopping sharply.
   - <https://www.youtube.com/watch?v=rMOYrNkvh94>
 
 ## Our scenario...
-{% include figure image_path="https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-2_nfdsh6.png" alt="" caption="" %}
+{% include figure image_path="https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-2_nfdsh6.png" alt="" caption="" %}
 
 **IMAGINE!**
 - You're a JR.
@@ -46,7 +46,7 @@ moving left, right and stopping sharply.
 **...keep this premise in your mind! It's our goal!**
 
 ## Start point
-{% include figure image_path="https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-3_sdjy6k.png" alt="" caption="" %}
+{% include figure image_path="https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-3_sdjy6k.png" alt="" caption="" %}
 
 - This is your setup →
 - **Four cones**, starting at the Pivot Line, then 5ft-ish apart - they simulate a Pack of sorts.
@@ -58,7 +58,7 @@ moving left, right and stopping sharply.
 **...now choose your level!**
 
 ## Level One - Skills & Sprint
-{% include figure image_path="https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-4_pgg7xy.png" alt="" caption="" %}
+{% include figure image_path="https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-4_pgg7xy.png" alt="" caption="" %}
 
 - Caller and JR agree a difficulty, expressed as a number.
   - **Start with 4 to begin with**.
@@ -72,7 +72,7 @@ moving left, right and stopping sharply.
 - JR joins the back of the queue, new JR, new Caller, repeat...
 
 ## Level Two - Second Pass & Penalty
-{% include figure image_path="https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-5_gyda0r.png" alt="" caption="" %}
+{% include figure image_path="https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-5_gyda0r.png" alt="" caption="" %}
 
 - As per Level One… start whistle, set off, call out cone numbers...
 - ...but this time on "GO!" the JR accelerates and completes a full lap, they don't stop and join the queue.
@@ -82,7 +82,7 @@ moving left, right and stopping sharply.
 - JR joins back of line, new JR, new Caller, repeat...
 
 ## Hard Mode - Actual Live Jammer
-{% include figure image_path="https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-6_mjucai.png" alt="" caption="" %}
+{% include figure image_path="https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-6_mjucai.png" alt="" caption="" %}
 
 - As per Level Two, EXCEPT that instead of a Caller, you have a skater or ref be an Actual Live Jammer, and you have to match their skating
 instead of listen out for which marker to hit.
@@ -92,7 +92,7 @@ instead of listen out for which marker to hit.
 - Switch up and repeat...
 
 ## Bonus Stage!
-{% include figure image_path="https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-7_lnv61q.png" alt="" caption="" %}
+{% include figure image_path="https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-7_lnv61q.png" alt="" caption="" %}
 
 Ways to make the drill harder:
 - Increase Difficulty setting - agree to hit 6 cones, 8 cones, 10 cones (I like 10)

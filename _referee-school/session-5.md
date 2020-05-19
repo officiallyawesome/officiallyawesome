@@ -2,7 +2,7 @@
 title:  "Session 5: OPR, Directions and Multiplayer"
 date:   2020-05-18 15:00:00 +0100
 header:
-  teaser: https://res.cloudinary.com/elliot-forty-two/image/upload/f_auto,q_auto,c_lfill,g_auto,r_5,w_800,h_450/officially-awesome/photos/P4150173_wfo5gy.jpg
+  teaser: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_lfill,g_auto,r_5,w_800,h_450/officially-awesome/photos/P4150173_wfo5gy.jpg
 ---
 <!-- more -->
 
