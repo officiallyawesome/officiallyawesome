@@ -48,5 +48,5 @@ feature_reaper:
 - [WFTDA penalty quick reference guide][]
 
 [The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
-[WFTDA officiating cues, codes and signals]: {% link _resources/officiating-cues-codes-signals.md %}
-[WFTDA penalty quick reference guide]: {% link _resources/penalty-quick-reference.md %}
+[WFTDA officiating cues, codes and signals]: <https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf>
+[WFTDA penalty quick reference guide]: <https://static.wftda.com/officiating/wftda-penalty-quick-reference-guide.pdf>

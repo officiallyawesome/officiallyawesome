@@ -16,5 +16,5 @@ header:
 
 [The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [Magnet Board]: {% link _resources/magnet-board/index.html %}
-[WFTDA officiating cues, codes and signals]: {% link _resources/officiating-cues-codes-signals.md %}
 [Tracker Trainer]: {% link _resources/tracker-trainer.md %}
+[WFTDA officiating cues, codes and signals]: <https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf>
