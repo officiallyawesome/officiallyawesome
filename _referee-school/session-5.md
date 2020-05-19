@@ -12,7 +12,7 @@ header:
 - [Tracker Trainer][] (for memory and pack awareness)
 - [Magnet Board][]{:target="_blank"}
 - [The Rules of Roller Derby][]{:target="_blank"}
-- [WFTDA officiating cues, codes and signals][]
+- [WFTDA officiating cues, codes and signals][]{:target="_blank"}
 
 [The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [Magnet Board]: {% link _resources/magnet-board/index.html %}

@@ -12,8 +12,8 @@ header:
 - [The Rules of Roller Derby][]{:target="_blank"}
 - [Mentimeter][]{:target="_blank"}
 - [Magnet Board][]{:target="_blank"}
-- [WFTDA officiating cues, codes and signals][]
-- [WFTDA penalty quick reference guide][]
+- [WFTDA officiating cues, codes and signals][]{:target="_blank"}
+- [WFTDA penalty quick reference guide][]{:target="_blank"}
 - Memory Exercise: [youtu.be/ojZmZPaISok][]{:target="_blank"} (instructions in the YouTube session 2 video)
   - The wonderful Holtz has turned the YouTube memory video into an actual game! You can find it here: [Tracker Trainer][] (do let us know if you have any feedback as Holtz is very happy to update, fix and adapt it!)
 - Just Dance exercises:

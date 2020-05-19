@@ -16,8 +16,8 @@ Together with Tem - we are very excited to have a session all about Jammer Reffi
 
 ## Resources used this week
 - [The Rules of Roller Derby][]{:target="_blank"}
-- [WFTDA officiating cues, codes and signals][]
-- [WFTDA penalty quick reference guide][]
+- [WFTDA officiating cues, codes and signals][]{:target="_blank"}
+- [WFTDA penalty quick reference guide][]{:target="_blank"}
 - Exercise for Session 4:
   - Explained by Killer Bite during the session you can find more information about the drill to help improve acceleration & footwork and challenge concentration here: [Keeping Up With Reaper][]
 
