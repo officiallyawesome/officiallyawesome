@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Officially Awesome
-email: hello@officiallyawesome.online
+email: officials@londonrollerderby.com
 description: >- # this means to ignore newlines until "url:"
   Resources for awesome roller derby officials.
 
-url: "https://officiallyawesome.woozle.uk"
+url: "https://officiallyawesome.uk"
 baseurl: ""
 locale: "en-GB"
-repository: elliot-forty-two/officiallyawesome
+repository: officiallyawesome/officiallyawesome
 
 # twitter_username: officiallyawesome
 github_username: officiallyawesome
