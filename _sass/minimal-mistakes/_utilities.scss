@@ -209,120 +209,145 @@ body:hover .visually-hidden button {
   .far,
   .fal {
     color: $text-color;
+    color: var(--text-color, $text-color);
   }
 
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
+    color: var(--behance-color, $behance-color);
   }
 
   .fa-bitbucket {
     color: $bitbucket-color;
+    color: var(--bitbucket-color, $bitbucket-color);
   }
 
   .fa-dribbble,
   .fa-dribble-square {
     color: $dribbble-color;
+    color: var(--dribbble-color, $dribbble-color);
   }
 
   .fa-facebook,
   .fa-facebook-square,
   .fa-facebook-f {
     color: $facebook-color;
+    color: var(--facebook-color, $facebook-color);
   }
 
   .fa-flickr {
     color: $flickr-color;
+    color: var(--flickr-color, $flickr-color);
   }
 
   .fa-foursquare {
     color: $foursquare-color;
+    color: var(--foursquare-color, $foursquare-color);
   }
 
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
     color: $github-color;
+    color: var(--github-color, $github-color);
   }
 
   .fa-gitlab {
     color: $gitlab-color;
+    color: var(--gitlab-color, $gitlab-color);
   }
 
   .fa-instagram {
     color: $instagram-color;
+    color: var(--instagram-color, $instagram-color);
   }
 
   .fa-keybase {
     color: $keybase-color;
+    color: var(--keybase-color, $keybase-color);
   }
 
   .fa-lastfm,
   .fa-lastfm-square {
     color: $lastfm-color;
+    color: var(--lastfm-color, $lastfm-color);
   }
 
   .fa-linkedin,
   .fa-linkedin-in {
     color: $linkedin-color;
+    color: var(--linkedin-color, $linkedin-color);
   }
 
   .fa-mastodon,
   .fa-mastodon-square {
     color: $mastodon-color;
+    color: var(--mastodon-color, $mastodon-color);
   }
 
   .fa-pinterest,
   .fa-pinterest-p,
   .fa-pinterest-square {
     color: $pinterest-color;
+    color: var(--pinterest-color, $pinterest-color);
   }
 
   .fa-reddit {
     color: $reddit-color;
+    color: var(--reddit-color, $reddit-color);
   }
 
   .fa-rss,
   .fa-rss-square {
     color: $rss-color;
+    color: var(--rss-color, $rss-color);
   }
 
   .fa-soundcloud {
     color: $soundcloud-color;
+    color: var(--soundcloud-color, $soundcloud-color);
   }
 
   .fa-stack-exchange,
   .fa-stack-overflow {
     color: $stackoverflow-color;
+    color: var(--stackoverflow-color, $stackoverflow-color);
   }
 
   .fa-tumblr,
   .fa-tumblr-square {
     color: $tumblr-color;
+    color: var(--tumblr-color, $tumblr-color);
   }
 
   .fa-twitter,
   .fa-twitter-square {
     color: $twitter-color;
+    color: var(--twitter-color, $twitter-color);
   }
 
   .fa-vimeo,
   .fa-vimeo-square,
   .fa-vimeo-v {
     color: $vimeo-color;
+    color: var(--vimeo-color, $vimeo-color);
   }
 
   .fa-vine {
     color: $vine-color;
+    color: var(--vine-color, $vine-color);
   }
 
   .fa-youtube {
     color: $youtube-color;
+    color: var(--youtube-color, $youtube-color);
   }
 
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
+    color: var(--xing-color, $xing-color);
   }
 }
 
@@ -335,6 +360,7 @@ body:hover .visually-hidden button {
   width: $navicon-width;
   height: $navicon-height;
   background: $primary-color;
+  background: var(--primary-color, $primary-color);
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -347,6 +373,7 @@ body:hover .visually-hidden button {
     width: $navicon-width;
     height: $navicon-height;
     background: $primary-color;
+    background: var(--primary-color, $primary-color);
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
@@ -396,6 +423,7 @@ body:hover .visually-hidden button {
       height: 100%;
       opacity: 0;
       background-color: $background-color;
+      background-color: var(--background-color, $background-color);
       -webkit-transition: $global-transition;
       transition: $global-transition;
       pointer-events: none;
@@ -493,6 +521,7 @@ body:hover .visually-hidden button {
   z-index: 9999;
   background: #fff;
   border: 1px solid $border-color;
+  border-color: var(--border-color, $border-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
@@ -508,6 +537,7 @@ body:hover .visually-hidden button {
   &__actions {
     padding: 0.5em 1em;
     border-top: 1px solid $border-color;
+    border-top-color: var(--border-color, $border-color);
   }
 }
 
@@ -533,6 +563,7 @@ body:hover .visually-hidden button {
 
 a.reversefootnote {
   color: $gray;
+  color: var(--gray, $gray);
   text-decoration: none;
 
   &:hover {
@@ -546,6 +577,7 @@ a.reversefootnote {
 
 .required {
   color: $danger-color;
+  color: var(--danger-color, $danger-color);
   font-weight: bold;
 }
 

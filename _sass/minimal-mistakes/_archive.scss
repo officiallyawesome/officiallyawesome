@@ -36,7 +36,9 @@
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: $muted-text-color;
+  color: var(--muted-text-color, $muted-text-color);
   border-bottom: 1px solid $border-color;
+  border-bottom-color: var(--border-color, $border-color);
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -234,6 +236,7 @@
   @include clearfix();
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
+  border-bottom-color: var(--border-color, $border-color);
 
   .archive__item-title {
     margin-bottom: 0;

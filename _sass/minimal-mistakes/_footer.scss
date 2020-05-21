@@ -11,11 +11,13 @@
   clear: both;
   margin-top: 3em;
   color: $muted-text-color;
+  color: var(--muted-text-color, $muted-text-color);
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
+  background-color: var(--footer-background-color, $footer-background-color);
 
   footer {
     @include clearfix;
@@ -44,6 +46,7 @@
   .far,
   .fal {
     color: $muted-text-color;
+    color: var(--muted-text-color, $muted-text-color);
   }
 }
 
