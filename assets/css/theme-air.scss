@@ -1,0 +1,11 @@
+---
+---
+
+@media screen and (prefers-color-scheme: light) {
+  :root {
+    @import "minimal-mistakes/themes";
+    @import "minimal-mistakes/skins/air";
+    @import "minimal-mistakes/colors";
+    @include color-vars("air");
+  }
+}
