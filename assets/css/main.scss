@@ -14,9 +14,11 @@ $lrd-color-old: #fa7db6;
 $right-sidebar-width: 220px !default;
 // $right-sidebar-width-wide: 400px !default;
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+{% if site.dark_mode %}
 :root {
   color-scheme: light dark;
 }
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+{% endif %}
