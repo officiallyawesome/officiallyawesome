@@ -8,8 +8,14 @@ header:
   overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/c_lfill,f_auto,g_auto,h_360,q_auto,w_1280/officially-awesome/photos/P4160423_ljqqsi.jpg
   overlay_filter: 0.5
 ---
-Join us for ten weeks of ref school, learning the ins and outs of reffing roller derby with Cluster Schmuck, Themenist Killjoy, and some exciting guests.
+Join London Roller Derby's very own Cluster Schmuck along side fellow UK ref extraordinaire, Theminist Killjoy and some amazing guest officials, for an Officially Awesome ref school. The school is open to everyone.
 
-The course is currently running and if you would like to join us to participate live, please fill out this expression of interest form and we'll add you to the mailing list and Facebook group for updates and discussions.
+They will be walking you through the basics of reffing on this ten week ref school – start from "what does a roller derby track look like" – all the way through to "an eagle landed on the track and took the helmet cover – what do we do?" type scenarios.
 
-# Recorded Sessions
+The sessions will be held via video sessions on Zoom, so all you need is sign up here and bring your awesome self and maybe a notebook and snacks.
+
+[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeg7j7qxVUuxD0gx-oVyyUNuMaGcx7l02FcfP_QVNi3L_WrYQ/viewform?usp=sf_link){: .btn .btn--primary target="_blank"}
+
+# School Sessions
+
+Each week's meeting is recorded and uploaded to YouTube. You can find each recording and the resources used here.
