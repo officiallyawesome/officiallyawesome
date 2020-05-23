@@ -10,7 +10,7 @@ A referee drill dreamt up by Xavier Bacon and Killer Bite to help improve
 acceleration & footwork and challenge concentration. It will hopefully make you
 sweat, curse, fall over, smile, curse again and, crucially, **get better**.
 
-[Download the PDF](/assets/pdf/Keeping%20Up%20With%20Reaper%20-%20A%20Referee%20Drill%20to%20build%20Footwork%20and%20Speed.pdf){: .btn .btn--primary}{:target="_blank"}
+[Download the PDF](/assets/pdf/Keeping%20Up%20With%20Reaper%20-%20A%20Referee%20Drill%20to%20build%20Footwork%20and%20Speed.pdf){: .btn .btn--primary target="_blank"}
 
 <!-- more -->
 
@@ -22,20 +22,18 @@ sweat, curse, fall over, smile, curse again and, crucially, **get better**.
 - Increase your skating options and choices when reffing.
 
 ## Homework / Prep
-- For best results you'll need to learn to
-face the track and react by quickly
-moving left, right and stopping sharply.
+- For best results you'll need to learn to face the track and react by quickly moving left, right and stopping sharply.
 - Watch these for footwork inspiration:
-  - <https://www.instagram.com/p/9cIRA5RCLd>
-  - <https://www.instagram.com/p/9cO6TzRCGQ>
-  - <https://www.youtube.com/watch?v=v_Sz_ywIE2c>
-  - <https://www.youtube.com/watch?v=rMOYrNkvh94>
+  - [www.instagram.com/p/9cIRA5RCLd](https://www.instagram.com/p/9cIRA5RCLd){: target="_blank"}
+  - [www.instagram.com/p/9cO6TzRCGQ](https://www.instagram.com/p/9cO6TzRCGQ){: target="_blank"}
+  - [youtu.be/v_Sz_ywIE2c](https://youtu.be/v_Sz_ywIE2c){: target="_blank"}
+  - [youtu.be/rMOYrNkvh94](https://youtu.be/rMOYrNkvh94){: target="_blank"}
 
 ## Our scenario...
 {% include figure image_path="https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto/officially-awesome/screenshots/keeping-up-with-reaper-2_nfdsh6.png" alt="" caption="" %}
 
 **IMAGINE!**
-- You're a JR.
+- You're a Jammer Referee (JR).
 - The whistle blows. The jam starts!
 - Your Jammer sets off, gets stuck in the pack for a bit, being blocked, briefly recycled, attacking again.
 - You keep up with the Jammer, matching their moves to watch for blocks, passes and legal re-entries.
