@@ -9,10 +9,10 @@ header:
 {% include video id="O9PXVbbmQMg" provider="youtube" %}
 
 ## Resources used this week
-- [The Rules of Roller Derby][]{:target="_blank"}
+- [The Rules of Flat Track Roller Derby][]{:target="_blank"}
 - [Mentimeter][]{:target="_blank"}
-- [Magnet Board][]{:target="_blank"}
+- [Magnet Board][]{:target="_blank"}, NURDS: New Ultimate Roller Derby Simulator (formerly URDUMB)
 
-[The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
+[The Rules of Flat Track Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [Mentimeter]: <https://www.mentimeter.com>
-[Magnet Board]: {% link _resources/magnet-board/index.html %}
+[Magnet Board]: <https://nurds.space> "NURDS: New Ultimate Roller Derby Simulator"

@@ -9,22 +9,22 @@ header:
   overlay_filter: 0.5
 feature_magnet:
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/magnet-board_wtfcoo.png
-    alt: "Roller Derby Magnet Board"
-    title: "Roller Derby Magnet Board"
-    excerpt: "Create interactive scenarios with the Magnet Board, created by Wonder Zebra of Vienna Roller Derby."
+    alt: "NURDS"
+    title: "NURDS"
+    excerpt: "New Ultimate Roller Derby Simulator, created by Wonder Zebra of Vienna Roller Derby."
     buttons:
-      - url: "/resources/magnet-board/index.html"
-        btn_label: "Launch"
+      - url: "https://nurds.space"
+        btn_label: "Open"
         btn_class: "btn--inverse"
         btn_target: "_blank"
-      - url: "/resources/magnet-board/about"
-        btn_label: "About"
-        btn_class: "btn--inverse"
+      # - url: "/resources/magnet-board/about"
+      #   btn_label: "About"
+      #   btn_class: "btn--inverse"
 feature_tracker:
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     alt: "Tracker Trainer"
     title: "Tracker Trainer"
-    excerpt: "A focus and memory exercise for roller derby skating officials."
+    excerpt: "A focus and memory exercise for skating officials."
     url: "/resources/tracker-trainer"
     btn_class: "btn--inverse"
 feature_reaper:
@@ -43,10 +43,10 @@ feature_reaper:
 {% include feature_row id="feature_reaper" type="left" %}
 
 ## WFTDA Documents
-- [The Rules of Roller Derby][]{:target="_blank"}
+- [The Rules of Flat Track Roller Derby][]{:target="_blank"}
 - [WFTDA officiating cues, codes and signals][]
 - [WFTDA penalty quick reference guide][]
 
-[The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
+[The Rules of Flat Track Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [WFTDA officiating cues, codes and signals]: <https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf>
 [WFTDA penalty quick reference guide]: <https://static.wftda.com/officiating/wftda-penalty-quick-reference-guide.pdf>

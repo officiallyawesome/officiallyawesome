@@ -9,9 +9,9 @@ header:
 {% include video id="en-JqS9ad9w" provider="youtube" %}
 
 ## Resources used this week
-- [The Rules of Roller Derby][]{:target="_blank"}
+- [The Rules of Flat Track Roller Derby][]{:target="_blank"}
 - [Mentimeter][]{:target="_blank"}
-- [Magnet Board][]{:target="_blank"}
+- [Magnet Board][]{:target="_blank"}, NURDS: New Ultimate Roller Derby Simulator (formerly URDUMB)
 - [WFTDA officiating cues, codes and signals][]{:target="_blank"}
 - [WFTDA penalty quick reference guide][]{:target="_blank"}
 - Memory Exercise: [youtu.be/ojZmZPaISok][]{:target="_blank"} (instructions in the YouTube session 2 video)
@@ -24,9 +24,9 @@ header:
   - Then, try to see both at the same time or very close together so you're not missing a dancing beat!
   - You should notice that after a while you start to notice them more easily - but don't rush yourself. Give your brain time to adjust to focusing in on multiple things.
 
-[The Rules of Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
+[The Rules of Flat Track Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [Mentimeter]: <https://www.mentimeter.com>
-[Magnet Board]: {% link _resources/magnet-board/index.html %}
+[Magnet Board]: <https://nurds.space> "NURDS: New Ultimate Roller Derby Simulator"
 [WFTDA officiating cues, codes and signals]: <https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf>
 [WFTDA penalty quick reference guide]: <https://static.wftda.com/officiating/wftda-penalty-quick-reference-guide.pdf>
 [youtu.be/ojZmZPaISok]: <https://youtu.be/ojZmZPaISok>
