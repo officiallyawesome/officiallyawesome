@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 excerpt: Resources for awesome roller derby officials
 header:
-  overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_1280/officially-awesome/photos/P4150278_jscqxa.jpg
+  overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/c_lfill,f_auto,h_360,q_auto,w_1280/officially-awesome/photos/P4150278_jscqxa.jpg
   overlay_filter: 0.5
 feature_row:
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_lfill,g_auto,w_800,h_450/officially-awesome/photos/P4160423_ljqqsi.jpg

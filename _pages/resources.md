@@ -5,7 +5,7 @@ collection: resources
 layout: archive
 # excerpt: "&nbsp;"
 header:
-  overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_1280/officially-awesome/photos/P4150128_oxeaat.jpg
+  overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/c_lfill,f_auto,h_360,q_auto,w_1280/officially-awesome/photos/P4150128_oxeaat.jpg
   overlay_filter: 0.5
 feature_magnet:
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/magnet-board_wtfcoo.png
