@@ -17,7 +17,7 @@ The sessions will be held via video sessions on Zoom, so all you need is sign up
 
 The live LRD Ref school sessions ends on Sunday 14 June. But if you'd like to join the community (even past this date) - find us on Facebook and ask questions and be Officially Awesome.
 
-[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSf4blUxF2OF5vlTdtFy882sEqwIacVIbiw8ndfZjCKLby4tBw/viewform){: .btn .btn--primary target="_blank"} [Join us on Facebook](https://www.facebook.com/groups/LRDRefSchool/){: .btn .btn--primary target="_blank"}
+[Sign up here<i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLSf4blUxF2OF5vlTdtFy882sEqwIacVIbiw8ndfZjCKLby4tBw/viewform){: .btn .btn--primary target="_blank"} [Join us on Facebook<i class="fas fa-external-link-alt"></i>](https://www.facebook.com/groups/LRDRefSchool/){: .btn .btn--primary target="_blank"}
 
 # School Sessions
 

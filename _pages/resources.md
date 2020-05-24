@@ -17,6 +17,7 @@ feature_magnet:
         btn_label: "Open"
         btn_class: "btn--inverse"
         btn_target: "_blank"
+        btn_icon: "fas fa-external-link-alt"
       # - url: "/resources/magnet-board/about"
       #   btn_label: "About"
       #   btn_class: "btn--inverse"
