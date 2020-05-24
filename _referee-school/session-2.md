@@ -9,12 +9,12 @@ header:
 {% include video id="en-JqS9ad9w" provider="youtube" %}
 
 ## Resources used this week
-- [The Rules of Flat Track Roller Derby][]{:target="_blank"}
-- [Mentimeter][]{:target="_blank"}
-- [Magnet Board][]{:target="_blank"}, NURDS: New Ultimate Roller Derby Simulator (formerly URDUMB)
-- [WFTDA officiating cues, codes and signals][]{:target="_blank"}
-- [WFTDA penalty quick reference guide][]{:target="_blank"}
-- Memory Exercise: [youtu.be/ojZmZPaISok][]{:target="_blank"} (instructions in the YouTube session 2 video)
+- [The Rules of Flat Track Roller Derby][]{: target="_blank" rel="noreferrer"}
+- [Mentimeter][]{: target="_blank" rel="noreferrer"}
+- [Magnet Board][]{: target="_blank" rel="noreferrer"}, NURDS: New Ultimate Roller Derby Simulator (formerly URDUMB)
+- [WFTDA officiating cues, codes and signals][]{: target="_blank" rel="noreferrer"}
+- [WFTDA penalty quick reference guide][]{: target="_blank" rel="noreferrer"}
+- Memory Exercise: [youtu.be/ojZmZPaISok][]{: target="_blank" rel="noreferrer"} (instructions in the YouTube session 2 video)
   - The wonderful Holtz has turned the YouTube memory video into an actual game! You can find it here: [Tracker Trainer][] (do let us know if you have any feedback as Holtz is very happy to update, fix and adapt it!)
 - Just Dance exercises:
   - Go to YouTube and search for "Just Dance".

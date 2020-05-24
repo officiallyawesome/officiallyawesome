@@ -12,15 +12,11 @@ feature_magnet:
     alt: "NURDS"
     title: "NURDS"
     excerpt: "New Ultimate Roller Derby Simulator, created by Wonder Zebra of Vienna Roller Derby."
-    buttons:
-      - url: "https://nurds.space"
-        btn_label: "Open"
-        btn_class: "btn--inverse"
-        btn_target: "_blank"
-        btn_icon: "fas fa-external-link-alt"
-      # - url: "/resources/magnet-board/about"
-      #   btn_label: "About"
-      #   btn_class: "btn--inverse"
+    url: "https://nurds.space"
+    btn_label: "Open"
+    btn_class: "btn--inverse"
+    btn_attrs: "target=\"_blank\" rel=\"noreferrer\""
+    btn_icon: "fas fa-external-link-alt"
 feature_tracker:
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     alt: "Tracker Trainer"
@@ -44,7 +40,7 @@ feature_reaper:
 {% include feature_row id="feature_reaper" type="left" %}
 
 ## WFTDA Documents
-- [The Rules of Flat Track Roller Derby][]{:target="_blank"}
+- [The Rules of Flat Track Roller Derby][]{: target="_blank" rel="noreferrer"}
 - [WFTDA officiating cues, codes and signals][]
 - [WFTDA penalty quick reference guide][]
 

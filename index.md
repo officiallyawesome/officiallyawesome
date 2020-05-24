@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Open"
     btn_icon: "fas fa-external-link-alt"
     btn_class: "btn--inverse"
-    btn_target: "_blank"
+    btn_attrs: "target=\"_blank\" rel=\"noreferrer\""
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1600/f_auto,q_auto,c_lfill,g_auto,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     title: "Tracker Trainer"
     excerpt: "A focus and memory exercise for roller derby skating officials"

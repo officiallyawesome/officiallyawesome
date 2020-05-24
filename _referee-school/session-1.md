@@ -9,9 +9,9 @@ header:
 {% include video id="O9PXVbbmQMg" provider="youtube" %}
 
 ## Resources used this week
-- [The Rules of Flat Track Roller Derby][]{:target="_blank"}
-- [Mentimeter][]{:target="_blank"}
-- [Magnet Board][]{:target="_blank"}, NURDS: New Ultimate Roller Derby Simulator (formerly URDUMB)
+- [The Rules of Flat Track Roller Derby][]{: target="_blank" rel="noreferrer"}
+- [Mentimeter][]{: target="_blank" rel="noreferrer"}
+- [Magnet Board][]{: target="_blank" rel="noreferrer"}, NURDS: New Ultimate Roller Derby Simulator (formerly URDUMB)
 
 [The Rules of Flat Track Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [Mentimeter]: <https://www.mentimeter.com>
