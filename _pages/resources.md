@@ -43,7 +43,13 @@ feature_reaper:
 - [The Rules of Flat Track Roller Derby][]{: target="_blank" rel="noreferrer"}
 - [WFTDA officiating cues, codes and signals][]
 - [WFTDA penalty quick reference guide][]
+- [WFTDA Officiating Clarification: How to handle issues around Skater colors and numbers][]{: target="_blank" rel="noreferrer"}
+
+## Blog Posts
+- Skewblogs on "[Six Questions you should ask yourself about your new uniform]{: target="_blank" rel="noreferrer"}"
 
 [The Rules of Flat Track Roller Derby]: <https://rules.wftda.com> "The Rules of Flat Track Roller Derby"
 [WFTDA officiating cues, codes and signals]: <https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf>
 [WFTDA penalty quick reference guide]: <https://static.wftda.com/officiating/wftda-penalty-quick-reference-guide.pdf>
+[WFTDA Officiating Clarification: How to handle issues around Skater colors and numbers]: <https://static.wftda.com/officiating/officiating-clarification-skater-color-and-number.pdf>
+[Six Questions you should ask yourself about your new uniform]: <https://zebraskew.wordpress.com/2018/09/17/the-six-questions-you-should-ask-yourself-about-your-new-uniform/>
