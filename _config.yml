@@ -80,9 +80,9 @@ plugins:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/officiallyawesome/officiallyawesome"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/officiallyawesome/officiallyawesome"
     # - label: "Categories"
     #   icon: "fa fa-fw fa-cat"
     #   url: /categories/
