@@ -23,7 +23,7 @@ feature_row:
     btn_target: "_blank"
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1600/f_auto,q_auto,c_lfill,g_auto,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     title: "Tracker Trainer"
-    excerpt: "A focus and memory exercise for skating officials"
+    excerpt: "A focus and memory exercise for roller derby skating officials"
     url: "/resources/tracker-trainer"
     btn_class: "btn--inverse"
 ---
