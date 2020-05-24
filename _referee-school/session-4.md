@@ -3,7 +3,7 @@ title:  "Session 4: Position, Cutting and Jammer Referee "
 date:   2020-05-03 15:00:00 +0100
 excerpt: ""
 header:
-  teaser: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/portraits/killer-bite_dxqfvg.jpg
+  teaser: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_600/officially-awesome/screenshots/ref-school-session-4_imeyfm.png
 ---
 
 {% include video id="RsGvWNDTwb0" provider="youtube" %}
