@@ -44,6 +44,13 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Analytics
+analytics:
+  provider               : "google"
+  google:
+    tracking_id          : "UA-167495005-1"
+    anonymize_ip         : # true, false (default)
+
 # compress_html:
 #   clippings: all
 #   comments: ["<!-- ", " -->"]
