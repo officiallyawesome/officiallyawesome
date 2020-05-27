@@ -1,6 +1,3 @@
 [submodule "submodules/TrackerTrainer"]
 	path = submodules/TrackerTrainer
 	url = https://github.com/bexedmondson/TrackerTrainer
-[submodule "submodules/urdumb"]
-	path = _resources/magnet-board
-	url = https://github.com/elliot-forty-two/urdumb
