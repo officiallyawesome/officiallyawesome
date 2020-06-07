@@ -6,7 +6,7 @@ header:
 ---
 <!-- more -->
 
-Session 7 is now on YouTube!  You might want to have a look at the scenarios (linked in the resources) or pause the video after each scenario (as we have visualisations in the videos) and think about what you'd do in that situation. Let us know any thoughts and questions you've got! And as we say in the video - if you've got any scenarios you'd like us to go over next week - please do let us know at [tiny.cc/LRDRefQuestions][]{: target="_blank" rel="noreferrer"}.
+This week we're exploring 3 very different scenarios and discussing how we would approach them. You might want to have a look at the scenarios (linked in the resources) or pause the video after each scenario (we have visualisations in the videos) and think about what you'd do in each situation.
 
 {% include video id="P7yvG57CUUE" provider="youtube" %}
 
@@ -14,6 +14,5 @@ Session 7 is now on YouTube!  You might want to have a look at the scenarios (li
 - [Week 7 Scenarios][]{: target="_blank" rel="noreferrer"}
 - [In-Depth Scenario Info Pack][]{: target="_blank" rel="noreferrer"}, the scenarios with in-depth analysis and discussion points used in the breakout rooms
 
-[tiny.cc/LRDRefQuestions]: <https://tiny.cc/LRDRefQuestions>
-[Week 7 Scenarios]: <https://docs.google.com/document/d/1yHPHtyuTcrLG5kSsg-Lsp1xJIAxFOTftprwYzkkNrx8>
-[In-Depth Scenario Info Pack]: <https://docs.google.com/document/d/1QmfAacWkusGzU7ePrV7uJyX9F-BeY5EKF4zVIEdYZR4>
+[Week 7 Scenarios]: <https://tinyurl.com/RefSchoolScenarios>
+[In-Depth Scenario Info Pack]: <https://tinyurl.com/RefSchoolScenarios-Info>
