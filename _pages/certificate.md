@@ -1,5 +1,5 @@
 ---
-title: Referee School 2020
+title: Referee School 2020 Certificate
 layout: single
 permalink: /certificate/
 ---
