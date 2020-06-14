@@ -9,16 +9,10 @@ header:
   overlay_filter: 0.5
 ---
 
-Currently, Ref School is still happening live and so join London Roller Derby’s very own Cluster Schmuck along side fellow UK ref extraordinaire, Theminist Killjoy and some amazing guest officials, for an Officially Awesome ref school. The school is open to everyone.
+Welcome to the Officially Awesome Ref School.  Hosted by London Roller Derby's own Cluster Schmuck and fellow UK ref extraordinaire Theminist Killjoy, and supported by some amazing guest officials. The live LRD Ref School sessions were broadcast each Sunday for 9 weeks on Zoom and are now on YouTube for you to watch at any time, with all the resources used each week. The nine week ref school is available to anyone and walks through the basics of reffing, starting from "what does a roller derby track look like?", all the way to "an eagle landed on the track and took the helmet cover – what do we do?" type scenarios.
 
-They will be walking you through the basics of reffing on this ten week ref school – start from “what does a roller derby track look like” – all the way through to “an eagle landed on the track and took the helmet cover – what do we do?” type scenarios.
+If you'd like to join the community, find us on Facebook where you can ask questions and be Officially Awesome.
 
-The sessions will be held via video sessions on Zoom, so all you need is sign up here OR join our Facebook group to have the Zoom link and bring your awesome self and maybe a notebook and snacks.
+[Join us on Facebook <i class="fas fa-external-link-alt"></i>](https://www.facebook.com/groups/LRDRefSchool/){: .btn .btn--primary target="_blank" rel="noreferrer"}
 
-The live LRD Ref school sessions ends on Sunday 14 June. But if you'd like to join the community (even past this date) - find us on Facebook and ask questions and be Officially Awesome.
-
-[Sign up here<i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLSf4blUxF2OF5vlTdtFy882sEqwIacVIbiw8ndfZjCKLby4tBw/viewform){: .btn .btn--primary target="_blank" rel="noreferrer"} [Join us on Facebook<i class="fas fa-external-link-alt"></i>](https://www.facebook.com/groups/LRDRefSchool/){: .btn .btn--primary target="_blank" rel="noreferrer"}
-
-## School Sessions
-
-Each week's meeting is recorded and uploaded to YouTube. You can find each recording and the resources used here.
+## Sessions
