@@ -9,7 +9,7 @@ feature_row:
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_lfill,g_auto,w_800,h_450/officially-awesome/photos/P4160423_ljqqsi.jpg
     alt: "Referee School"
     title: "Referee School"
-    excerpt: "Find out more about LRD Ref school, join us live or watch the videos here"
+    excerpt: "Find out more about LRD Ref school, join us on Facebook or watch the videos here"
     url: "/referee-school"
     btn_class: "btn--inverse"
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1600/f_auto,q_auto,c_crop,g_auto,w_800,h_450/officially-awesome/screenshots/magnet-board_wtfcoo.png
@@ -27,5 +27,8 @@ feature_row:
     url: "/resources/tracker-trainer"
     btn_class: "btn--inverse"
 ---
+
+Thank you for joining us for London Roller Derby's Referee School! We have a lovely certificate you can download [here](/certificate/) as a memento of these 9 weird weeks together.
+{: .notice--primary}
 
 {% include feature_row %}
