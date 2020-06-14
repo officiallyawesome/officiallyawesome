@@ -6,6 +6,6 @@ header:
 ---
 <!-- more -->
 
-Thank you for joining us for London Roller Derby's Referee School! We have a lovely certificate you can download [here](/certificate/) as a memento of these 9 weird weeks together.
+Thank you for joining us for London Roller Derby's Referee School! We have a lovely [certificate you can download](/certificate/) as a memento of these 9 weird weeks together.
 
 The YouTube recording of this session will be up soon.
