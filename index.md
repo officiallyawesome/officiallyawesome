@@ -11,21 +11,16 @@ feature_row:
     title: "Referee School"
     excerpt: "Find out more about LRD Ref school, join us on Facebook or watch the videos here"
     url: "/referee-school"
-    btn_class: "btn--inverse"
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1600/f_auto,q_auto,c_crop,g_auto,w_800,h_450/officially-awesome/screenshots/magnet-board_wtfcoo.png
     alt: "NURDS"
     title: "NURDS"
     excerpt: "New Ultimate Roller Derby Simulator by Wonder Zebra at Vienna Roller Derby"
     url: "https://nurds.space"
-    btn_label: "Open"
-    btn_icon: "fas fa-external-link-alt"
-    btn_class: "btn--inverse"
-    btn_attrs: "target=\"_blank\" rel=\"noreferrer\""
+    url_attrs: "target=\"_blank\" rel=\"noreferrer\""
   - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1600/f_auto,q_auto,c_lfill,g_auto,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
     title: "Tracker Trainer"
     excerpt: "A focus and memory exercise for roller derby skating officials"
     url: "/resources/tracker-trainer"
-    btn_class: "btn--inverse"
 ---
 
 Thank you for joining us for London Roller Derby's Referee School!<br>
