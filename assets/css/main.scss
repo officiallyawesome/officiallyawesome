@@ -14,6 +14,9 @@ $lrd-color-old: #fa7db6;
 $right-sidebar-width: 220px !default;
 // $right-sidebar-width-wide: 400px !default;
 
+// $global-transition: all 0.2s ease-in-out !default;
+$intro-transition: none;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
