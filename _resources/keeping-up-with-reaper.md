@@ -10,7 +10,7 @@ A referee drill dreamt up by Xavier Bacon and Killer Bite to help improve
 acceleration & footwork and challenge concentration. It will hopefully make you
 sweat, curse, fall over, smile, curse again and, crucially, **get better**.
 
-[Download the PDF<i class="fas fa-external-link-alt"></i>](/assets/pdf/Keeping%20Up%20With%20Reaper%20-%20A%20Referee%20Drill%20to%20build%20Footwork%20and%20Speed.pdf){: .btn .btn--primary target="_blank" rel="noreferrer"}
+[Download the PDF <i class="iconify" data-icon="fa-solid:external-link-alt" data-inline="false"></i>](/assets/pdf/Keeping%20Up%20With%20Reaper%20-%20A%20Referee%20Drill%20to%20build%20Footwork%20and%20Speed.pdf){: .btn .btn--primary target="_blank" rel="noreferrer"}
 
 <!-- more -->
 

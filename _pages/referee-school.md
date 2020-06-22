@@ -13,6 +13,6 @@ Welcome to the Officially Awesome Ref School.  Hosted by London Roller Derby's o
 
 If you'd like to join the community, find us on Facebook where you can ask questions and be Officially Awesome.
 
-[Join us on Facebook <i class="fas fa-external-link-alt"></i>](https://www.facebook.com/groups/LRDRefSchool/){: .btn .btn--primary target="_blank" rel="noreferrer"}
+[Join us on Facebook <i class="iconify" data-icon="fa-solid:external-link-alt" data-inline="false"></i>](https://www.facebook.com/groups/LRDRefSchool/){: .btn .btn--primary target="_blank" rel="noreferrer"}
 
 ## Sessions
