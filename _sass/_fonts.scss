@@ -1,0 +1,15 @@
+
+@import "fonts/poppins";
+@import "fonts/lato";
+// @import "fonts/roboto";
+// @import "fonts/source-sans-pro";
+// @import "fonts/open-sans";
+
+$header-font-family: Futura, Futura-Medium, "Futura Medium", "Poppins",
+ "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde",
+  -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$sans-serif-narrow: $sans-serif;
