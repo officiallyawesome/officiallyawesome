@@ -31,7 +31,8 @@ dark_mode: true
 dark_mode_skin_light: air
 dark_mode_skin_dark: dark
 
-logo: "/assets/images/officially-awesome-88.png"
+logo: "/assets/images/officially-awesome-pink-200x.png"
+logo_large: "/assets/images/officially-awesome-pink-600x.png"
 search: false
 breadcrumbs: true
 
@@ -50,11 +51,6 @@ analytics:
   google:
     tracking_id          : "UA-167495005-1"
     anonymize_ip         : # true, false (default)
-
-# compress_html:
-#   clippings: all
-#   comments: ["<!-- ", " -->"]
-#   endings: all
 
 include:
   - _pages
