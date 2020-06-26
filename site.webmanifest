@@ -3,17 +3,17 @@
     "short_name": "Officially Awesome",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=9B9p9PX34b",
+            "src": "/android-chrome-192x192.png?v=YAX8zy8Aj8",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=9B9p9PX34b",
+            "src": "/android-chrome-512x512.png?v=YAX8zy8Aj8",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#f172ac",
+    "background_color": "#f172ac",
     "display": "standalone"
 }
