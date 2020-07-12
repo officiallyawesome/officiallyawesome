@@ -26,10 +26,8 @@ repository: officiallyawesome/officiallyawesome
 github_username: officiallyawesome
 
 minimal_mistakes_skin: air
-# minimal_mistakes_skin: dark
 dark_mode: true
-dark_mode_skin_light: air
-dark_mode_skin_dark: dark
+dark_mode_skin: dark
 
 logo: "/assets/images/officially-awesome-pink-200x.png"
 logo_large: "/assets/images/officially-awesome-pink-600x.png"

@@ -22,12 +22,25 @@ $intro-transition: none;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.site-title {
+  font-family: $header-font-family;
+}
+
 {% if site.dark_mode %}
 :root {
   color-scheme: light dark;
 }
-{% endif %}
 
-.site-title {
-  font-family: $header-font-family;
+@media (prefers-color-scheme: dark) {
+  :root {
+    @import "minimal-mistakes/skins/{{ site.dark_mode_skin | default: 'dark' }}";
+    @import "minimal-mistakes/colors";
+    @include color-vars();
+  }
+
+  img:not([src*=".svg"]) {
+    filter: grayscale(25%);
+  }
 }
+
+{% endif %}
