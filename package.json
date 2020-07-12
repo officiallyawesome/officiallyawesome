@@ -1,0 +1,31 @@
+{
+  "name": "officially-awesome",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "cross-spawn": "^7.0.3",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-responsive": "^3.0.1",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "description": "You can use the [editor on GitHub](https://github.com/officially-awesome/officiallyawesome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officiallyawesome/officiallyawesome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/officiallyawesome/officiallyawesome/issues"
+  },
+  "homepage": "https://github.com/officiallyawesome/officiallyawesome#readme"
+}
