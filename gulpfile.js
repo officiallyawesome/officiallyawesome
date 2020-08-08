@@ -5,9 +5,11 @@ const browsersync = require("browser-sync").create();
 const cp = require("cross-spawn");
 const del = require("del");
 const gulp = require("gulp");
+const responsive = require('gulp-responsive')
 const imagemin = require("gulp-imagemin");
 const newer = require("gulp-newer");
 const rename = require("gulp-rename");
+const size = require('gulp-size');
 
 // BrowserSync
 function browserSync(done) {
