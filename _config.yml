@@ -29,8 +29,8 @@ minimal_mistakes_skin: air
 dark_mode: true
 dark_mode_skin: dark
 
-logo: "/assets/images/officially-awesome-pink-200x.png"
-logo_large: "/assets/images/officially-awesome-pink-600x.png"
+logo: "/assets/images/logo@200w.png"
+logo_large: "/assets/images/logo@600w.png"
 search: false
 breadcrumbs: true
 

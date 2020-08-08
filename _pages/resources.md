@@ -5,10 +5,10 @@ collection: resources
 layout: archive
 # excerpt: "&nbsp;"
 header:
-  overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/c_lfill,f_auto,h_360,q_auto,w_1280/officially-awesome/photos/P4150128_oxeaat.jpg
+  overlay_image: /assets/images/hero/P4150128@1280w.jpg
   overlay_filter: 0.5
 feature_magnet:
-  - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/magnet-board_wtfcoo.png
+  - image_path: /assets/images/screenshots/nurds@800w.png
     alt: "NURDS"
     title: "NURDS"
     excerpt: "New Ultimate Roller Derby Simulator, created by Wonder Zebra of Vienna Roller Derby."
@@ -18,14 +18,14 @@ feature_magnet:
     btn_attrs: "target=\"_blank\" rel=\"noreferrer\""
     btn_icon: "fas fa-external-link-alt"
 feature_tracker:
-  - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_1200/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/tracker-trainer-2_whbfzq.png
+  - image_path: /assets/images/screenshots/tracker-trainer-2@800w.png
     alt: "Tracker Trainer"
     title: "Tracker Trainer"
     excerpt: "A focus and memory exercise for skating officials."
     url: "/resources/tracker-trainer"
     btn_class: "btn--inverse"
 feature_reaper:
-  - image_path: https://res.cloudinary.com/officially-awesome/image/upload/c_scale,w_800/f_auto,q_auto,c_crop,g_auto,r_5,w_800,h_450/officially-awesome/screenshots/keeping-up-with-reaper-1_w6buf8.png
+  - image_path: /assets/images/screenshots/keeping-up-with-reaper-1@800w.png
     alt: "Keeping Up With Reaper"
     title: "Keeping Up With Reaper"
     excerpt: "A referee drill to help improve acceleration & footwork and challenge concentration."

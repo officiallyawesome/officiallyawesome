@@ -2,7 +2,7 @@
 title:  "Session 5: OPR, Directions and Multiplayer"
 date:   2020-05-18 15:00:00 +0100
 header:
-  teaser: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_600/officially-awesome/screenshots/ref-school-session-5_mrosaq.png
+  teaser: /assets/images/screenshots/ref-school-session-5@800w.png
 ---
 <!-- more -->
 

@@ -2,7 +2,7 @@
 title:  "Session 6: Being a Head Referee, Unsporting conduct, and Interfering with the Flow of the Game"
 date:   2020-05-24 15:00:00 +0100
 header:
-  teaser: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_600/officially-awesome/screenshots/ref-school-session-6_mza9dp.png
+  teaser: /assets/images/screenshots/ref-school-session-6@800w.png
 ---
 <!-- more -->
 

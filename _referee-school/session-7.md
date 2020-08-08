@@ -2,7 +2,7 @@
 title:  "Session 7: In-depth Scenarios and Discretion"
 date:   2020-05-31 15:00:00 +0100
 header:
-  teaser: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_600/officially-awesome/screenshots/ref-school-session-7_g3lm02.png
+  teaser: /assets/images/screenshots/ref-school-session-7@800w.png
 ---
 <!-- more -->
 

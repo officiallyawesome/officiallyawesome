@@ -2,7 +2,7 @@
 title:  "Session 8: Your Questions: Microaggressions, overtime jams, pack definition penalties, and lead jammer"
 date:   2020-06-07 15:00:00 +0100
 header:
-  teaser: https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_600/officially-awesome/screenshots/ref-school-session-8_u7gjbd.png
+  teaser: /assets/images/screenshots/ref-school-session-8@800w.png
 ---
 <!-- more -->
 

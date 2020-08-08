@@ -4,7 +4,7 @@ layout: single
 permalink: /certificate/
 ---
 
-![certificate](https://res.cloudinary.com/officially-awesome/image/upload/f_auto,q_auto,c_scale,w_300/officially-awesome/screenshots/referee-school-2020-certificate_dyslo4.png){: .align-right}
+![certificate](/assets/images/screenshots/referee-school-2020-certificate@400w.png){: .align-right}
 
 **You did it!**
 

@@ -5,7 +5,7 @@ collection: referee-school
 layout: collection
 entries_layout: grid
 header:
-  overlay_image: https://res.cloudinary.com/officially-awesome/image/upload/c_lfill,f_auto,g_auto,h_360,q_auto,w_1280/officially-awesome/photos/P4160423_ljqqsi.jpg
+  overlay_image: /assets/images/hero/P4160423@1280w.jpg
   overlay_filter: 0.5
 ---
 
