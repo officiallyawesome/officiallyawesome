@@ -3,6 +3,8 @@ main:
     url: /referee-school/
   - title: "Resources"
     url: /resources/
+  - title: "Merch"
+    url: /merch/
   - title: "About"
     url: /about/
   # - title: "Posts"

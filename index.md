@@ -22,7 +22,7 @@ feature_row:
     url: "/resources/tracker-trainer"
 ---
 
-Thank you for joining us for London Roller Derby's Referee School! We have a lovely [certificate you can download](/certificate/) as a memento of these 9 weird weeks together.
+We now have some super special patches and pins created especially for the folks that attended the online referee school during lockdown. You can see them on the [merch](/merch/) page and purchase from the LRD shop.
 {: .notice--primary}
 
 {% include feature_row %}
