@@ -12,7 +12,9 @@
     "gulp-responsive": "^3.0.1",
     "gulp-size": "^3.0.0",
     "gulp-util": "^3.0.8",
-    "imagemin-advpng": "^6.0.0",
+    "imagemin-jpegoptim": "^7.0.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
     "imagemin-pngquant": "^9.0.0",
     "imagemin-webp": "^6.0.0"
   },

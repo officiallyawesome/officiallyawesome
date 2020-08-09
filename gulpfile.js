@@ -10,9 +10,11 @@ const imagemin = require("gulp-imagemin");
 const newer = require("gulp-newer");
 const rename = require("gulp-rename");
 const size = require('gulp-size');
-const imageminPngquant = require('imagemin-pngquant');
 const imageminWebp = require('imagemin-webp');
-const imageminAdvpng = require('imagemin-advpng');
+const imageminPngquant = require('imagemin-pngquant');
+const imageminJpegoptim = require('imagemin-jpegoptim');
+const imageminOptipng = require('imagemin-optipng');
+const imageminMozjpeg = require('imagemin-mozjpeg');
 
 // BrowserSync
 function browserSync(done) {
@@ -62,7 +64,7 @@ function images() {
   addToImageConfigs('hero/*.jpg', [1280], ['jpg'], 60, 1.1);
   addToImageConfigs('screenshots/*.png', [400, 800], ['png'], 100, 1);
   addToImageConfigs('screenshots/*.jpg', [400, 800], ['jpg'], 95, 1);
-  addToImageConfigs('logo.png', [200, 600], ['png'], 100, 1);
+  addToImageConfigs('logo.png', [200, 600], ['png', 'webp'], 100, 1);
 
   return gulp.src("src_images/**/*.{png,jpg}")
     .pipe(responsive(imageConfigs, {
@@ -70,16 +72,18 @@ function images() {
       progressive: true
     }))
     .pipe(imagemin([
-      imagemin.mozjpeg({
+      imageminMozjpeg({
         quality: 80,
         progressive: true
       }),
-      imageminAdvpng(),
-      imageminWebp(),
+      imageminJpegoptim(),
+      imageminPngquant({
+        quality: [0.0, 0.8]
+      }),
+      imageminOptipng(),
     ], {
       verbose: true,
-      plugins: [imagemin.gifsicle(), imagemin.mozjpeg(), imagemin.svgo(),
-        imageminWebp({quality: 50}), imageminAdvpng(), imageminPngquant()]
+      plugins: [imageminMozjpeg(), imageminOptipng(), imageminJpegoptim(), imageminPngquant()]
     }))
     .pipe(gulp.dest("assets/images"))
     .pipe(browsersync.stream())
