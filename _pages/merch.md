@@ -34,6 +34,8 @@ One is black and white. The other has a pink background.
 
 {% include gallery id="gallery-patches" layout="half" %}
 
+[Buy patches <i class="iconify" data-icon="fa-solid:external-link-alt" data-inline="false"></i>](https://london-rollergirls-shop.myshopify.com/products/officially-awesome-embroidered-patch){: .btn .btn--primary target="_blank" rel="noreferrer"}
+
 ## Pins
 
 These are 20mm circular black ceramic pins with the words "officially awesome" embossed around the edge in white with 2 pencils. There's a whistle in the middle with ref stripes in the background.
@@ -41,3 +43,5 @@ These are 20mm circular black ceramic pins with the words "officially awesome" e
 One is black and white only, the other has pink in the background.
 
 {% include gallery id="gallery-pins" layout="half" %}
+
+[Buy pins <i class="iconify" data-icon="fa-solid:external-link-alt" data-inline="false"></i>](https://london-rollergirls-shop.myshopify.com/products/officially-awesome-ceramic-pins){: .btn .btn--primary target="_blank" rel="noreferrer"}
