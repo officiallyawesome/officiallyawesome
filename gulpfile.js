@@ -10,6 +10,9 @@ const imagemin = require("gulp-imagemin");
 const newer = require("gulp-newer");
 const rename = require("gulp-rename");
 const size = require('gulp-size');
+const imageminPngquant = require('imagemin-pngquant');
+const imageminWebp = require('imagemin-webp');
+const imageminAdvpng = require('imagemin-advpng');
 
 // BrowserSync
 function browserSync(done) {
@@ -45,7 +48,9 @@ function images() {
           width: widths[i] * scale,
           format: formats[j],
           quality: quality,
-          rename: { suffix: "@" + widths[i] + "w" },
+          rename: {
+            suffix: "@" + widths[i] + "w"
+          },
           progressive: true
         };
         imageConfigs.push(imageConfig);
@@ -54,17 +59,28 @@ function images() {
   };
 
   // 375, 750, 1024, 1125, 1280, 1440, 1920
-  addToImageConfigs('hero/*.jpg', [1280], ['jpg', 'webp'], 60, 1.1);
-  addToImageConfigs('screenshots/*.png', [400, 800], ['png', 'webp'], 100, 1);
-  addToImageConfigs('screenshots/*.jpg', [400, 800], ['jpg', 'webp'], 95, 1);
-  addToImageConfigs('logo.png', [200, 600], ['png', 'webp'], 100, 1);
+  addToImageConfigs('hero/*.jpg', [1280], ['jpg'], 60, 1.1);
+  addToImageConfigs('screenshots/*.png', [400, 800], ['png'], 100, 1);
+  addToImageConfigs('screenshots/*.jpg', [400, 800], ['jpg'], 95, 1);
+  addToImageConfigs('logo.png', [200, 600], ['png'], 100, 1);
 
   return gulp.src("src_images/**/*.{png,jpg}")
     .pipe(responsive(imageConfigs, {
       errorOnUnusedImage: false,
       progressive: true
     }))
-    .pipe(imagemin({ progressive: true }))
+    .pipe(imagemin([
+      imagemin.mozjpeg({
+        quality: 80,
+        progressive: true
+      }),
+      imageminAdvpng(),
+      imageminWebp(),
+    ], {
+      verbose: true,
+      plugins: [imagemin.gifsicle(), imagemin.mozjpeg(), imagemin.svgo(),
+        imageminWebp({quality: 50}), imageminAdvpng(), imageminPngquant()]
+    }))
     .pipe(gulp.dest("assets/images"))
     .pipe(browsersync.stream())
     .pipe(size({
